@@ -104,3 +104,4 @@ alias pbpaste='xsel --clipboard --output'
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 export PATH=$PATH:/home/z0mb13/.gem/ruby/2.6.0/bin
+screenfetch -A 'Arch Linux'
