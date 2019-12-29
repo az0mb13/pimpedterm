@@ -102,3 +102,5 @@ alias pbpaste='xsel --clipboard --output'
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+export PATH=$PATH:/home/z0mb13/.gem/ruby/2.6.0/bin
