@@ -7,4 +7,8 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
 
 cp .zshrc ~/.zshrc
+cp .p10k.zsh ~/.p10k.zsh
 source .zshrc
+source .p10k.zsh
+
+echo "Reboot it plx"
