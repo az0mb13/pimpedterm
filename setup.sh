@@ -11,4 +11,6 @@ cp .p10k.zsh ~/.p10k.zsh
 source .zshrc
 source .p10k.zsh
 
+chsh -s /usr/bin/zsh $(whoami)
+
 echo "Reboot it plx"
