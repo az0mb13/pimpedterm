@@ -67,7 +67,7 @@ ZSH_THEME=powerlevel10k/powerlevel10k
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git z extract zsh-syntax-highlighting zsh-autosuggestions history archlinux)
+plugins=(git z extract zsh-syntax-highlighting zsh-autosuggestions history archlinux fzf-zsh-plugin)
 
 source $ZSH/oh-my-zsh.sh
 
